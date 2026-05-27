@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>为什么我开始写博客</title>
+      <link href="/2026/05/27/why-i-start-blogging/"/>
+      <url>/2026/05/27/why-i-start-blogging/</url>
+      
+        <content type="html"><![CDATA[<h2 id="博客折腾过程"><a href="#博客折腾过程" class="headerlink" title="博客折腾过程"></a>博客折腾过程</h2><p>大概是从21年左右创建了自己第一个网站，当时就已经有了写博客的想法，之前找工作的时候也想过自己搭建一个博客网站，后续也尝试过hexo，hugo，也了解过WordPress。24年的时候又用Python的Django框架搭建了博客，页面非常简陋，远不如这些静态站点生成器生成的网站好看，之前折腾了这么多次但都没有坚持下来，这次用hexo又生成了一个博客，主题使用的是butterfly。</p><h2 id="新的开始"><a href="#新的开始" class="headerlink" title="新的开始"></a>新的开始</h2><p>我自己对写博客这件事之前没有很大的动力，不知道该写点什么，而且我也不擅长写东西，我主要是在网上看文字还有视频，偶尔评论。</p><p>把自己学到的零碎东西拼凑到一起而且要保持简介不繁琐还是有点难度的，以前我基本没有写作过。</p><p>最近发现自己想记录一些生活日常还有日常学习的总结，尝试过Instagram，发过几次帖子，但是Instagram还是不适合写长文章而且还不支持markdown语法，遂放弃，国内的知乎必须要在它自己的平台写内容，不能上传已经写好的markdown文件，过一段时间不用就又得重新登录，也挺麻烦，而且也不能定制化一些网站功能</p><p>也考虑过用语雀或者OneNote来记录一些笔记，但是并不能在网页上浏览，少了分享的功能，然后重新开始用hexo创建本站</p><p>希望这次能坚持写下去，Fighting🤟</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 写作 </tag>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2026/05/20/hello-world/"/>
+      <url>/2026/05/20/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
